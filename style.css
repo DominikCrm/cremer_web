@@ -144,19 +144,6 @@
     color: #fff;
 }
 
-/* Grundlegende Stile für Desktop-Bildschirme */
-.container {
-    width: 100%;
-    max-width: 1200px; /* Beispiel: Begrenzen Sie die Breite für große Bildschirme */
-    margin: 0 auto; /* Zentrieren Sie den Inhalt */
-}
-
-/* Media-Query für Tablet- und kleinere Bildschirme */
-@media (max-width: 768px) {
-    .container {
-        padding: 0 20px; /* Beispiel: Fügen Sie seitlichen Abstand hinzu */
-    }
-}
 
 /* Beispiel-Media-Query für mobile Geräte */
 @media only screen and (max-width: 768px) {
