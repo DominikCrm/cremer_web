@@ -154,6 +154,6 @@
 /* Media-Query für Tablet- und kleinere Bildschirme */
 @media (max-width: 768px) {
     .container {
-        padding: 0 0px; /* Beispiel: Fügen Sie seitlichen Abstand hinzu */
+        padding: 0 20px; /* Beispiel: Fügen Sie seitlichen Abstand hinzu */
     }
 }
