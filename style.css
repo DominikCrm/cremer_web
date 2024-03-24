@@ -185,7 +185,6 @@
 .item {
     width: 165px;
     height: 250px;
-    position: relative; /* Position relativ für die Positionierung des Inhalts */
     border-radius: 20px;
     box-shadow: 0 30px 50px #505050;
     background-position: 50% 50%;
@@ -204,6 +203,7 @@
     font-family: system-ui;
     display: none;
 }
+
 
 
 /*
