@@ -144,27 +144,23 @@
     color: #fff;
 }
 
-
-/* Beispiel-Media-Query für mobile Geräte */
+/*
 @media only screen and (max-width: 768px) {
-    /* Hier können Sie spezifische Stile für mobile Geräte definieren */
 
-    /* Beispiel: Verwenden Sie Flexbox für die Anordnung der Elemente */
     .container {
         display: flex;
-        flex-direction: column; /* Stapeln Sie die Elemente vertikal */
+        flex-direction: column; 
     }
 
-    /* Beispiel: Begrenzen Sie die Breite der Elemente auf die Breite des Viewports */
     .item {
-        max-width: 100%; /* Elemente dürfen nicht breiter als der Viewport sein */
+        max-width: 100%;
     }
 
-    /* Beispiel: Ändern Sie die Schriftgröße für eine bessere Lesbarkeit */
     .content .name {
         font-size: 18px;
     }
 }
+*/
 
 /*
 .container {
