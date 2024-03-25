@@ -1,4 +1,3 @@
-/*
 const $next = document.querySelector('.next');
 const $prev = document.querySelector('.prev');
 
@@ -19,9 +18,9 @@ $prev.addEventListener(
         prepend(items[items.length -1]);
     },
 );
-*/
 
 
+/*
 document.addEventListener('DOMContentLoaded', function() {
     const $next = document.querySelector('.next');
     const $prev = document.querySelector('.prev');
@@ -36,7 +35,7 @@ document.addEventListener('DOMContentLoaded', function() {
         document.querySelector('.slide').prepend(items[items.length - 1]);
     });
 });
-
+*/
 
 
 /*
